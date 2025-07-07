@@ -1,5 +1,3 @@
-package staticfinalthisinstanceof;
-
 class Vehicle {
     static double registrationFee = 5000.0;
 

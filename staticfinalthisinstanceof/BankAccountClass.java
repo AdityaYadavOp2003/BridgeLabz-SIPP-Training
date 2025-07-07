@@ -1,4 +1,4 @@
-package staticfinalthisinstanceof;
+
 
 class BankAccount {
     

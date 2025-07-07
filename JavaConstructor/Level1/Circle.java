@@ -1,6 +1,4 @@
-package JavaConstructor.Level1;
 
-import java.util.Scanner;
 
 public class Circle {
     double radius;

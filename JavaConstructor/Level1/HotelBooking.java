@@ -1,4 +1,3 @@
-package JavaConstructor.Level1;
 
 public class HotelBooking {
     String guestName;

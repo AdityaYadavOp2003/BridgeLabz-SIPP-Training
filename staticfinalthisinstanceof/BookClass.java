@@ -1,4 +1,4 @@
-package staticfinalthisinstanceof;
+
 
 class Book {
     static String libraryName = "City Central Library";

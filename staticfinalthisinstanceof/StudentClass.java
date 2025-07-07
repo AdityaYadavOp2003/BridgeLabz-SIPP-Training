@@ -1,4 +1,3 @@
-package staticfinalthisinstanceof;
 
 class Student {
     static String universityName = "Global Tech University";

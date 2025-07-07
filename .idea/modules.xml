@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Inheritance.iml" filepath="$PROJECT_DIR$/.idea/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP-Java.iml" filepath="$PROJECT_DIR$/OOP-Java.iml" />
     </modules>
   </component>
 </project>

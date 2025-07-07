@@ -1,4 +1,4 @@
-package staticfinalthisinstanceof;
+
 
 class Patient {
     static String hospitalName = "City Care Hospital";

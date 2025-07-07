@@ -1,4 +1,3 @@
-package staticfinalthisinstanceof;
 
 class Employee {
     static String companyName = "Tech Innovators Pvt Ltd";
