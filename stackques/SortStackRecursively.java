@@ -1,4 +1,4 @@
-package stackQues;
+package stackques;
 
 import java.util.Stack;
 

@@ -1,3 +1,5 @@
+package searches.string_builder;
+
 
 import java.io.*;
 public class CompareConcatAndFileRead {

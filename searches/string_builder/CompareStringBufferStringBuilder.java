@@ -1,3 +1,5 @@
+package searches.string_builder;
+
 
 
 public class CompareStringBufferStringBuilder {

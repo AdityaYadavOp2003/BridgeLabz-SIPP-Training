@@ -1,4 +1,4 @@
-package string_builder;
+package searches.string_builder;
 
 public class ConcatenateStringBuffer {
     public static String concatenateStrings(String[] stringArray) {

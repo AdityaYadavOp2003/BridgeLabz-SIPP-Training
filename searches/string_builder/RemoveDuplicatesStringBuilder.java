@@ -1,4 +1,4 @@
-package string_builder;
+package searches.string_builder;
 import java.util.HashSet;
 public class RemoveDuplicatesStringBuilder {
     public static String removeDuplicateCharacters(String inputString) {

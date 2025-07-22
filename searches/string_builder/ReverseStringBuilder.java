@@ -1,4 +1,4 @@
-package string_builder;
+package searches.string_builder;
 
 public class ReverseStringBuilder {
     public static String reverseText(String inputText) {
